@@ -8,5 +8,5 @@ with col2 :
     st.title('here is column2')
     st.checkbox('this is checkbox2 in col2')
 
-col1.subheader(' i am column1 subheader')
-col2.checkbox('this is checkbox2 in col2')
+    col1.subheader(' i am column1 subheader')
+    col2.checkbox('this is checkbox2 in col2')  
